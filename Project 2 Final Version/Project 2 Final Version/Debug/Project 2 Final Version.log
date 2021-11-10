@@ -1,0 +1,4 @@
+﻿  Project 2 Final Version.cpp
+C:\Users\Kaeden Grubb\Desktop\CST 116 Work\Project 2 Final Version\Project 2 Final Version\Project 2 Final Version.cpp(76,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kaeden Grubb\Desktop\CST 116 Work\Project 2 Final Version\Project 2 Final Version\Project 2 Final Version.cpp(77,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project 2 Final Version.vcxproj -> C:\Users\Kaeden Grubb\Desktop\CST 116 Work\Project 2 Final Version\Debug\Project 2 Final Version.exe
